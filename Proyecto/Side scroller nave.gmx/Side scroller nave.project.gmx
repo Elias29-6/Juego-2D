@@ -7,6 +7,7 @@
   <sounds name="sound">
     <sound>sound\sound0</sound>
     <sound>sound\laserEneSnd</sound>
+    <sound>sound\explosionSnd</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="nave">
@@ -17,9 +18,11 @@
     <sprite>sprites\sprite5</sprite>
     <sprites name="nave_enemigo1">
       <sprite>sprites\spr_nave_enemigo1</sprite>
+      <sprite>sprites\spr_nave_enemigo_hit</sprite>
       <sprite>sprites\spr_laser_enemigo</sprite>
     </sprites>
     <sprite>sprites\spr_wall</sprite>
+    <sprite>sprites\spr_explosion</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_espacio</background>
@@ -37,6 +40,8 @@
     <object>objects\obj_laser_enemigo1</object>
     <object>objects\wallVertical</object>
     <object>objects\wallHorizontal</object>
+    <object>objects\obj_explosion</object>
+    <object>objects\obj_spawner</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Universo</room>
