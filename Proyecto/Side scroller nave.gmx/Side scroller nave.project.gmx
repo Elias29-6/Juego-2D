@@ -6,6 +6,7 @@
   <NewExtensions/>
   <sounds name="sound">
     <sound>sound\sound0</sound>
+    <sound>sound\laserEneSnd</sound>
   </sounds>
   <sprites name="sprites">
     <sprites name="nave">
@@ -18,6 +19,7 @@
       <sprite>sprites\spr_nave_enemigo1</sprite>
       <sprite>sprites\spr_laser_enemigo</sprite>
     </sprites>
+    <sprite>sprites\spr_wall</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_espacio</background>
@@ -28,9 +30,11 @@
     <object>objects\obj_laser</object>
     <object>objects\obj_enemigo1</object>
     <object>objects\obj_laser_enemigo1</object>
+    <object>objects\wallVertical</object>
+    <object>objects\wallHorizontal</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room1</room>
+    <room>rooms\Universo</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
