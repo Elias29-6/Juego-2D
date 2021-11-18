@@ -14,6 +14,7 @@
       <sprite>sprites\nave_frente</sprite>
       <sprite>sprites\nave_iz</sprite>
       <sprite>sprites\nave_de</sprite>
+      <sprite>sprites\spr_nave_golpe</sprite>
     </sprites>
     <sprite>sprites\sprite5</sprite>
     <sprites name="nave_enemigo1">
@@ -25,6 +26,7 @@
     <sprite>sprites\spr_explosion</sprite>
     <sprite>sprites\spr_powerup</sprite>
     <sprite>sprites\spr_vidas</sprite>
+    <sprite>sprites\spr_gameover</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_espacio</background>

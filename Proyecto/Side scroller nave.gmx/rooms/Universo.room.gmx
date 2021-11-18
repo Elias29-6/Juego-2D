@@ -57,7 +57,7 @@
     <instance objName="wallHorizontal" x="287" y="-14" name="inst_10F6EB3F" locked="0" code="" scaleX="20.1562995910645" scaleY="0.903226017951965" colour="4294967295" rotation="0"/>
     <instance objName="obj_spawner" x="78" y="59" name="inst_C20A7EAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_powerup_spawner" x="272" y="61" name="inst_E34333BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_score" x="167" y="58" name="inst_E8565470" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_score" x="172" y="80" name="inst_55C67ED9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
