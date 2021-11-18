@@ -47,6 +47,7 @@
     <object>objects\obj_powerup</object>
     <object>objects\obj_powerup_spawner</object>
     <object>objects\obj_score</object>
+    <object>objects\obj_reset</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Universo</room>
